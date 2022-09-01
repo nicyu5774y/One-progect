@@ -1,5 +1,8 @@
 
-Info: djpixeldj@gmail.com_addref
+Info: djpixeldj@gmail.com
+
+
+
 WhatsApp: +1 (563) 281-2225 (IT,Italy)
 
 

@@ -1,14 +1,14 @@
-
+--
 -- Struttura della tabella `ip`
 --
 
 CREATE TABLE `ip` (
   `ip` varchar(20) DEFAULT NULL,
-  `server` varchar(35) CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci NOT NULL,
+  `server` varchar(35) CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL,
   `data` timestamp NULL DEFAULT CURRENT_TIMESTAMP,
   `server2` text NOT NULL,
   `server3` text NOT NULL,
-  `server4` text CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci NOT NULL,
+  `server4` text CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL,
   `server5` text NOT NULL,
   `server6` text NOT NULL,
   `server7` text NOT NULL,
@@ -25,9 +25,8 @@ CREATE TABLE `ip` (
   `server18` text NOT NULL,
   `server19` text NOT NULL,
   `server20` text NOT NULL
-) ENGINE=MyISAM DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
-COMMIT;
+) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_general_ci;
 
-/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
+SITE: https://nas326-server.zyxel.me/

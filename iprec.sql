@@ -1,7 +1,6 @@
 --
 -- Struttura della tabella `ip`
 --
-
 CREATE TABLE `ip` (
   `ip` varchar(20) DEFAULT NULL,
   `server` varchar(35) CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL,
@@ -29,4 +28,4 @@ CREATE TABLE `ip` (
 
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
-SITE: https://nas326-server.zyxel.me/
+SITE: https://nas326-server.zyxel.me

@@ -1,11 +1,8 @@
 
-Info: djpixeldj@gmail.com
-
+Info:nick@nas326-server.zyxel.me
 Go to Visit my site: https://nas326-server.zyxel.me
 
 WhatsApp: NOT-POSSIBLE (IT,Italy)
-
-
 <?php
 $host = "you_host";
 $user = "root";
